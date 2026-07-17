@@ -1,3 +1,11 @@
 # spider-rs-test
 
-Rust 实现的爬虫测试项目
+A minimal repository for testing Rust spider/crawler experiments.
+
+## Current status
+
+This repository currently contains project metadata only. It does not yet include a Cargo package or crawler implementation.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
